@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,35 +26,42 @@
 <urn:mdciii:1603:16:188:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:1" ;
-    skos:prefLabel "San Jose"@spa-Latn .
+    skos:prefLabel "San Jose"@spa-Latn ;
+    wdata:q7200235 "CR1" .
 
 <urn:mdciii:1603:16:188:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:2" ;
-    skos:prefLabel "Alajuela"@spa-Latn .
+    skos:prefLabel "Alajuela"@spa-Latn ;
+    wdata:q7200235 "CR2" .
 
 <urn:mdciii:1603:16:188:1:3>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:3" ;
-    skos:prefLabel "Cartago"@spa-Latn .
+    skos:prefLabel "Cartago"@spa-Latn ;
+    wdata:q7200235 "CR3" .
 
 <urn:mdciii:1603:16:188:1:4>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:4" ;
-    skos:prefLabel "Heredia"@spa-Latn .
+    skos:prefLabel "Heredia"@spa-Latn ;
+    wdata:q7200235 "CR4" .
 
 <urn:mdciii:1603:16:188:1:5>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:5" ;
-    skos:prefLabel "Guanacaste"@spa-Latn .
+    skos:prefLabel "Guanacaste"@spa-Latn ;
+    wdata:q7200235 "CR5" .
 
 <urn:mdciii:1603:16:188:1:6>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:6" ;
-    skos:prefLabel "Puntarenas"@spa-Latn .
+    skos:prefLabel "Puntarenas"@spa-Latn ;
+    wdata:q7200235 "CR6" .
 
 <urn:mdciii:1603:16:188:1:7>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:1:7" ;
-    skos:prefLabel "Limon"@spa-Latn .
+    skos:prefLabel "Limon"@spa-Latn ;
+    wdata:q7200235 "CR7" .
 

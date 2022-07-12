@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,405 +26,486 @@
 <urn:mdciii:1603:16:188:2:101>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:101" ;
-    skos:prefLabel "San Jose"@spa-Latn .
+    skos:prefLabel "San Jose"@spa-Latn ;
+    wdata:q7200235 "CR101" .
 
 <urn:mdciii:1603:16:188:2:102>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:102" ;
-    skos:prefLabel "Escazu"@spa-Latn .
+    skos:prefLabel "Escazu"@spa-Latn ;
+    wdata:q7200235 "CR102" .
 
 <urn:mdciii:1603:16:188:2:103>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:103" ;
-    skos:prefLabel "Desamparados"@spa-Latn .
+    skos:prefLabel "Desamparados"@spa-Latn ;
+    wdata:q7200235 "CR103" .
 
 <urn:mdciii:1603:16:188:2:104>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:104" ;
-    skos:prefLabel "Puriscal"@spa-Latn .
+    skos:prefLabel "Puriscal"@spa-Latn ;
+    wdata:q7200235 "CR104" .
 
 <urn:mdciii:1603:16:188:2:105>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:105" ;
-    skos:prefLabel "Tarrazu"@spa-Latn .
+    skos:prefLabel "Tarrazu"@spa-Latn ;
+    wdata:q7200235 "CR105" .
 
 <urn:mdciii:1603:16:188:2:106>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:106" ;
-    skos:prefLabel "Aserri"@spa-Latn .
+    skos:prefLabel "Aserri"@spa-Latn ;
+    wdata:q7200235 "CR106" .
 
 <urn:mdciii:1603:16:188:2:107>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:107" ;
-    skos:prefLabel "Mora"@spa-Latn .
+    skos:prefLabel "Mora"@spa-Latn ;
+    wdata:q7200235 "CR107" .
 
 <urn:mdciii:1603:16:188:2:108>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:108" ;
-    skos:prefLabel "Goicoechea"@spa-Latn .
+    skos:prefLabel "Goicoechea"@spa-Latn ;
+    wdata:q7200235 "CR108" .
 
 <urn:mdciii:1603:16:188:2:109>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:109" ;
-    skos:prefLabel "Santa Ana"@spa-Latn .
+    skos:prefLabel "Santa Ana"@spa-Latn ;
+    wdata:q7200235 "CR109" .
 
 <urn:mdciii:1603:16:188:2:110>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:110" ;
-    skos:prefLabel "Alajuelita"@spa-Latn .
+    skos:prefLabel "Alajuelita"@spa-Latn ;
+    wdata:q7200235 "CR110" .
 
 <urn:mdciii:1603:16:188:2:111>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:111" ;
-    skos:prefLabel "Vazquez De Coronado"@spa-Latn .
+    skos:prefLabel "Vazquez De Coronado"@spa-Latn ;
+    wdata:q7200235 "CR111" .
 
 <urn:mdciii:1603:16:188:2:112>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:112" ;
-    skos:prefLabel "Acosta"@spa-Latn .
+    skos:prefLabel "Acosta"@spa-Latn ;
+    wdata:q7200235 "CR112" .
 
 <urn:mdciii:1603:16:188:2:113>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:113" ;
-    skos:prefLabel "Tibas"@spa-Latn .
+    skos:prefLabel "Tibas"@spa-Latn ;
+    wdata:q7200235 "CR113" .
 
 <urn:mdciii:1603:16:188:2:114>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:114" ;
-    skos:prefLabel "Moravia"@spa-Latn .
+    skos:prefLabel "Moravia"@spa-Latn ;
+    wdata:q7200235 "CR114" .
 
 <urn:mdciii:1603:16:188:2:115>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:115" ;
-    skos:prefLabel "Montes De Oca"@spa-Latn .
+    skos:prefLabel "Montes De Oca"@spa-Latn ;
+    wdata:q7200235 "CR115" .
 
 <urn:mdciii:1603:16:188:2:116>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:116" ;
-    skos:prefLabel "Turrubares"@spa-Latn .
+    skos:prefLabel "Turrubares"@spa-Latn ;
+    wdata:q7200235 "CR116" .
 
 <urn:mdciii:1603:16:188:2:117>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:117" ;
-    skos:prefLabel "Dota"@spa-Latn .
+    skos:prefLabel "Dota"@spa-Latn ;
+    wdata:q7200235 "CR117" .
 
 <urn:mdciii:1603:16:188:2:118>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:118" ;
-    skos:prefLabel "Curridabat"@spa-Latn .
+    skos:prefLabel "Curridabat"@spa-Latn ;
+    wdata:q7200235 "CR118" .
 
 <urn:mdciii:1603:16:188:2:119>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:119" ;
-    skos:prefLabel "Perez Zeledon"@spa-Latn .
+    skos:prefLabel "Perez Zeledon"@spa-Latn ;
+    wdata:q7200235 "CR119" .
 
 <urn:mdciii:1603:16:188:2:120>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:120" ;
-    skos:prefLabel "Leon Cortes"@spa-Latn .
+    skos:prefLabel "Leon Cortes"@spa-Latn ;
+    wdata:q7200235 "CR120" .
 
 <urn:mdciii:1603:16:188:2:201>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:201" ;
-    skos:prefLabel "Alajuela"@spa-Latn .
+    skos:prefLabel "Alajuela"@spa-Latn ;
+    wdata:q7200235 "CR201" .
 
 <urn:mdciii:1603:16:188:2:202>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:202" ;
-    skos:prefLabel "San Ramon"@spa-Latn .
+    skos:prefLabel "San Ramon"@spa-Latn ;
+    wdata:q7200235 "CR202" .
 
 <urn:mdciii:1603:16:188:2:203>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:203" ;
-    skos:prefLabel "Grecia"@spa-Latn .
+    skos:prefLabel "Grecia"@spa-Latn ;
+    wdata:q7200235 "CR203" .
 
 <urn:mdciii:1603:16:188:2:204>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:204" ;
-    skos:prefLabel "San Mateo"@spa-Latn .
+    skos:prefLabel "San Mateo"@spa-Latn ;
+    wdata:q7200235 "CR204" .
 
 <urn:mdciii:1603:16:188:2:205>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:205" ;
-    skos:prefLabel "Atenas"@spa-Latn .
+    skos:prefLabel "Atenas"@spa-Latn ;
+    wdata:q7200235 "CR205" .
 
 <urn:mdciii:1603:16:188:2:206>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:206" ;
-    skos:prefLabel "Naranjo"@spa-Latn .
+    skos:prefLabel "Naranjo"@spa-Latn ;
+    wdata:q7200235 "CR206" .
 
 <urn:mdciii:1603:16:188:2:207>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:207" ;
-    skos:prefLabel "Palmares"@spa-Latn .
+    skos:prefLabel "Palmares"@spa-Latn ;
+    wdata:q7200235 "CR207" .
 
 <urn:mdciii:1603:16:188:2:208>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:208" ;
-    skos:prefLabel "Poas"@spa-Latn .
+    skos:prefLabel "Poas"@spa-Latn ;
+    wdata:q7200235 "CR208" .
 
 <urn:mdciii:1603:16:188:2:209>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:209" ;
-    skos:prefLabel "Orotina"@spa-Latn .
+    skos:prefLabel "Orotina"@spa-Latn ;
+    wdata:q7200235 "CR209" .
 
 <urn:mdciii:1603:16:188:2:210>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:210" ;
-    skos:prefLabel "San Carlos"@spa-Latn .
+    skos:prefLabel "San Carlos"@spa-Latn ;
+    wdata:q7200235 "CR210" .
 
 <urn:mdciii:1603:16:188:2:211>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:211" ;
-    skos:prefLabel "Alfaro Ruiz"@spa-Latn .
+    skos:prefLabel "Alfaro Ruiz"@spa-Latn ;
+    wdata:q7200235 "CR211" .
 
 <urn:mdciii:1603:16:188:2:212>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:212" ;
-    skos:prefLabel "Valverde Vega"@spa-Latn .
+    skos:prefLabel "Valverde Vega"@spa-Latn ;
+    wdata:q7200235 "CR212" .
 
 <urn:mdciii:1603:16:188:2:213>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:213" ;
-    skos:prefLabel "Upala"@spa-Latn .
+    skos:prefLabel "Upala"@spa-Latn ;
+    wdata:q7200235 "CR213" .
 
 <urn:mdciii:1603:16:188:2:214>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:214" ;
-    skos:prefLabel "Los Chiles"@spa-Latn .
+    skos:prefLabel "Los Chiles"@spa-Latn ;
+    wdata:q7200235 "CR214" .
 
 <urn:mdciii:1603:16:188:2:215>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:215" ;
-    skos:prefLabel "Guatuso"@spa-Latn .
+    skos:prefLabel "Guatuso"@spa-Latn ;
+    wdata:q7200235 "CR215" .
 
 <urn:mdciii:1603:16:188:2:301>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:301" ;
-    skos:prefLabel "Cartago"@spa-Latn .
+    skos:prefLabel "Cartago"@spa-Latn ;
+    wdata:q7200235 "CR301" .
 
 <urn:mdciii:1603:16:188:2:302>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:302" ;
-    skos:prefLabel "Paraiso"@spa-Latn .
+    skos:prefLabel "Paraiso"@spa-Latn ;
+    wdata:q7200235 "CR302" .
 
 <urn:mdciii:1603:16:188:2:303>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:303" ;
-    skos:prefLabel "La Union"@spa-Latn .
+    skos:prefLabel "La Union"@spa-Latn ;
+    wdata:q7200235 "CR303" .
 
 <urn:mdciii:1603:16:188:2:304>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:304" ;
-    skos:prefLabel "Jimenez"@spa-Latn .
+    skos:prefLabel "Jimenez"@spa-Latn ;
+    wdata:q7200235 "CR304" .
 
 <urn:mdciii:1603:16:188:2:305>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:305" ;
-    skos:prefLabel "Turrialba"@spa-Latn .
+    skos:prefLabel "Turrialba"@spa-Latn ;
+    wdata:q7200235 "CR305" .
 
 <urn:mdciii:1603:16:188:2:306>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:306" ;
-    skos:prefLabel "Alvarado"@spa-Latn .
+    skos:prefLabel "Alvarado"@spa-Latn ;
+    wdata:q7200235 "CR306" .
 
 <urn:mdciii:1603:16:188:2:307>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:307" ;
-    skos:prefLabel "Oreamuno"@spa-Latn .
+    skos:prefLabel "Oreamuno"@spa-Latn ;
+    wdata:q7200235 "CR307" .
 
 <urn:mdciii:1603:16:188:2:308>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:308" ;
-    skos:prefLabel "El Guarco"@spa-Latn .
+    skos:prefLabel "El Guarco"@spa-Latn ;
+    wdata:q7200235 "CR308" .
 
 <urn:mdciii:1603:16:188:2:401>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:401" ;
-    skos:prefLabel "Heredia"@spa-Latn .
+    skos:prefLabel "Heredia"@spa-Latn ;
+    wdata:q7200235 "CR401" .
 
 <urn:mdciii:1603:16:188:2:402>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:402" ;
-    skos:prefLabel "Barva"@spa-Latn .
+    skos:prefLabel "Barva"@spa-Latn ;
+    wdata:q7200235 "CR402" .
 
 <urn:mdciii:1603:16:188:2:403>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:403" ;
-    skos:prefLabel "Santo Domingo"@spa-Latn .
+    skos:prefLabel "Santo Domingo"@spa-Latn ;
+    wdata:q7200235 "CR403" .
 
 <urn:mdciii:1603:16:188:2:404>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:404" ;
-    skos:prefLabel "Santa Barbara"@spa-Latn .
+    skos:prefLabel "Santa Barbara"@spa-Latn ;
+    wdata:q7200235 "CR404" .
 
 <urn:mdciii:1603:16:188:2:405>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:405" ;
-    skos:prefLabel "San Rafael"@spa-Latn .
+    skos:prefLabel "San Rafael"@spa-Latn ;
+    wdata:q7200235 "CR405" .
 
 <urn:mdciii:1603:16:188:2:406>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:406" ;
-    skos:prefLabel "San Isidro"@spa-Latn .
+    skos:prefLabel "San Isidro"@spa-Latn ;
+    wdata:q7200235 "CR406" .
 
 <urn:mdciii:1603:16:188:2:407>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:407" ;
-    skos:prefLabel "Belen"@spa-Latn .
+    skos:prefLabel "Belen"@spa-Latn ;
+    wdata:q7200235 "CR407" .
 
 <urn:mdciii:1603:16:188:2:408>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:408" ;
-    skos:prefLabel "Flores"@spa-Latn .
+    skos:prefLabel "Flores"@spa-Latn ;
+    wdata:q7200235 "CR408" .
 
 <urn:mdciii:1603:16:188:2:409>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:409" ;
-    skos:prefLabel "San Pablo"@spa-Latn .
+    skos:prefLabel "San Pablo"@spa-Latn ;
+    wdata:q7200235 "CR409" .
 
 <urn:mdciii:1603:16:188:2:410>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:410" ;
-    skos:prefLabel "Sarapiqui"@spa-Latn .
+    skos:prefLabel "Sarapiqui"@spa-Latn ;
+    wdata:q7200235 "CR410" .
 
 <urn:mdciii:1603:16:188:2:501>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:501" ;
-    skos:prefLabel "Liberia"@spa-Latn .
+    skos:prefLabel "Liberia"@spa-Latn ;
+    wdata:q7200235 "CR501" .
 
 <urn:mdciii:1603:16:188:2:502>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:502" ;
-    skos:prefLabel "Nicoya"@spa-Latn .
+    skos:prefLabel "Nicoya"@spa-Latn ;
+    wdata:q7200235 "CR502" .
 
 <urn:mdciii:1603:16:188:2:503>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:503" ;
-    skos:prefLabel "Santa Cruz"@spa-Latn .
+    skos:prefLabel "Santa Cruz"@spa-Latn ;
+    wdata:q7200235 "CR503" .
 
 <urn:mdciii:1603:16:188:2:504>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:504" ;
-    skos:prefLabel "Bagaces"@spa-Latn .
+    skos:prefLabel "Bagaces"@spa-Latn ;
+    wdata:q7200235 "CR504" .
 
 <urn:mdciii:1603:16:188:2:505>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:505" ;
-    skos:prefLabel "Carrillo"@spa-Latn .
+    skos:prefLabel "Carrillo"@spa-Latn ;
+    wdata:q7200235 "CR505" .
 
 <urn:mdciii:1603:16:188:2:506>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:506" ;
-    skos:prefLabel "Cañas"@spa-Latn .
+    skos:prefLabel "Cañas"@spa-Latn ;
+    wdata:q7200235 "CR506" .
 
 <urn:mdciii:1603:16:188:2:507>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:507" ;
-    skos:prefLabel "Abangares"@spa-Latn .
+    skos:prefLabel "Abangares"@spa-Latn ;
+    wdata:q7200235 "CR507" .
 
 <urn:mdciii:1603:16:188:2:508>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:508" ;
-    skos:prefLabel "Tilaran"@spa-Latn .
+    skos:prefLabel "Tilaran"@spa-Latn ;
+    wdata:q7200235 "CR508" .
 
 <urn:mdciii:1603:16:188:2:509>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:509" ;
-    skos:prefLabel "Nandayure"@spa-Latn .
+    skos:prefLabel "Nandayure"@spa-Latn ;
+    wdata:q7200235 "CR509" .
 
 <urn:mdciii:1603:16:188:2:510>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:510" ;
-    skos:prefLabel "La Cruz"@spa-Latn .
+    skos:prefLabel "La Cruz"@spa-Latn ;
+    wdata:q7200235 "CR510" .
 
 <urn:mdciii:1603:16:188:2:511>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:511" ;
-    skos:prefLabel "Hojancha"@spa-Latn .
+    skos:prefLabel "Hojancha"@spa-Latn ;
+    wdata:q7200235 "CR511" .
 
 <urn:mdciii:1603:16:188:2:601>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:601" ;
-    skos:prefLabel "Puntarenas"@spa-Latn .
+    skos:prefLabel "Puntarenas"@spa-Latn ;
+    wdata:q7200235 "CR601" .
 
 <urn:mdciii:1603:16:188:2:602>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:602" ;
-    skos:prefLabel "Esparza"@spa-Latn .
+    skos:prefLabel "Esparza"@spa-Latn ;
+    wdata:q7200235 "CR602" .
 
 <urn:mdciii:1603:16:188:2:603>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:603" ;
-    skos:prefLabel "Buenos Aires"@spa-Latn .
+    skos:prefLabel "Buenos Aires"@spa-Latn ;
+    wdata:q7200235 "CR603" .
 
 <urn:mdciii:1603:16:188:2:604>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:604" ;
-    skos:prefLabel "Montes De Oro"@spa-Latn .
+    skos:prefLabel "Montes De Oro"@spa-Latn ;
+    wdata:q7200235 "CR604" .
 
 <urn:mdciii:1603:16:188:2:605>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:605" ;
-    skos:prefLabel "Osa"@spa-Latn .
+    skos:prefLabel "Osa"@spa-Latn ;
+    wdata:q7200235 "CR605" .
 
 <urn:mdciii:1603:16:188:2:606>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:606" ;
-    skos:prefLabel "Aguirre"@spa-Latn .
+    skos:prefLabel "Aguirre"@spa-Latn ;
+    wdata:q7200235 "CR606" .
 
 <urn:mdciii:1603:16:188:2:607>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:607" ;
-    skos:prefLabel "Golfito"@spa-Latn .
+    skos:prefLabel "Golfito"@spa-Latn ;
+    wdata:q7200235 "CR607" .
 
 <urn:mdciii:1603:16:188:2:608>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:608" ;
-    skos:prefLabel "Coto Brus"@spa-Latn .
+    skos:prefLabel "Coto Brus"@spa-Latn ;
+    wdata:q7200235 "CR608" .
 
 <urn:mdciii:1603:16:188:2:609>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:609" ;
-    skos:prefLabel "Parrita"@spa-Latn .
+    skos:prefLabel "Parrita"@spa-Latn ;
+    wdata:q7200235 "CR609" .
 
 <urn:mdciii:1603:16:188:2:610>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:610" ;
-    skos:prefLabel "Corredores"@spa-Latn .
+    skos:prefLabel "Corredores"@spa-Latn ;
+    wdata:q7200235 "CR610" .
 
 <urn:mdciii:1603:16:188:2:611>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:611" ;
-    skos:prefLabel "Garabito"@spa-Latn .
+    skos:prefLabel "Garabito"@spa-Latn ;
+    wdata:q7200235 "CR611" .
 
 <urn:mdciii:1603:16:188:2:701>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:701" ;
-    skos:prefLabel "Limon"@spa-Latn .
+    skos:prefLabel "Limon"@spa-Latn ;
+    wdata:q7200235 "CR701" .
 
 <urn:mdciii:1603:16:188:2:702>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:702" ;
-    skos:prefLabel "Pococi"@spa-Latn .
+    skos:prefLabel "Pococi"@spa-Latn ;
+    wdata:q7200235 "CR702" .
 
 <urn:mdciii:1603:16:188:2:703>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:703" ;
-    skos:prefLabel "Siquirres"@spa-Latn .
+    skos:prefLabel "Siquirres"@spa-Latn ;
+    wdata:q7200235 "CR703" .
 
 <urn:mdciii:1603:16:188:2:704>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:704" ;
-    skos:prefLabel "Talamanca"@spa-Latn .
+    skos:prefLabel "Talamanca"@spa-Latn ;
+    wdata:q7200235 "CR704" .
 
 <urn:mdciii:1603:16:188:2:705>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:705" ;
-    skos:prefLabel "Matina"@spa-Latn .
+    skos:prefLabel "Matina"@spa-Latn ;
+    wdata:q7200235 "CR705" .
 
 <urn:mdciii:1603:16:188:2:706>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:188:2:706" ;
-    skos:prefLabel "Guacimo"@spa-Latn .
+    skos:prefLabel "Guacimo"@spa-Latn ;
+    wdata:q7200235 "CR706" .
 
