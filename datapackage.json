@@ -1,6 +1,5 @@
 {
   "name": "1603",
-  "profile": "data-package-catalog",
   "resources": [
     {
       "name": "1603_16_188_0",
@@ -14,7 +13,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -40,7 +42,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 8,
@@ -59,7 +62,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -97,7 +103,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 11,
@@ -116,7 +123,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -166,7 +176,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 14,
@@ -185,7 +196,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -247,7 +261,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 17,

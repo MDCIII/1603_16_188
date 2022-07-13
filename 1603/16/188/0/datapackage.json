@@ -14,7 +14,10 @@
           },
           {
             "name": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "qcc-Zxxx-r-sU2200-s5000-snop",
@@ -40,7 +43,8 @@
             "name": "qcc-Zxxx-r-pP-pp2699-ps1603",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop"
       },
       "stats": {
         "fields": 8,
@@ -55,11 +59,17 @@
         "fields": [
           {
             "name": "#item+conceptum+numerordinatio",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "#item+conceptum+codicem",
-            "type": "string"
+            "type": "string",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "#item+rem+i_qcc+is_zxxx+rdf_a_obo_bfo29+rdf_p_obo_bfo124_s5001+rdf_s_u2200_s5000",
@@ -97,7 +107,8 @@
             "name": "#item+rem+i_qcc+is_zxxx+rdf_p_p_p2699_s1603+rdf_t_xsd_datetime",
             "type": "string"
           }
-        ]
+        ],
+        "primaryKey": "#item+conceptum+codicem"
       },
       "stats": {
         "fields": 11,
