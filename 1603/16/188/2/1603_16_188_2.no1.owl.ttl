@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "San Jose"@spa-Latn ;
-    wdata:q7200235 "CR101" ;
+    wdata:Q7200235 "CR101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -127,7 +127,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Escazu"@spa-Latn ;
-    wdata:q7200235 "CR102" ;
+    wdata:Q7200235 "CR102" ;
 .
 
 <urn:mdciii:1603:16:188:2:103>
@@ -139,7 +139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Desamparados"@spa-Latn ;
-    wdata:q7200235 "CR103" ;
+    wdata:Q7200235 "CR103" ;
 .
 
 <urn:mdciii:1603:16:188:2:104>
@@ -151,7 +151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Puriscal"@spa-Latn ;
-    wdata:q7200235 "CR104" ;
+    wdata:Q7200235 "CR104" ;
 .
 
 <urn:mdciii:1603:16:188:2:105>
@@ -163,7 +163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Tarrazu"@spa-Latn ;
-    wdata:q7200235 "CR105" ;
+    wdata:Q7200235 "CR105" ;
 .
 
 <urn:mdciii:1603:16:188:2:106>
@@ -175,7 +175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Aserri"@spa-Latn ;
-    wdata:q7200235 "CR106" ;
+    wdata:Q7200235 "CR106" ;
 .
 
 <urn:mdciii:1603:16:188:2:107>
@@ -187,7 +187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Mora"@spa-Latn ;
-    wdata:q7200235 "CR107" ;
+    wdata:Q7200235 "CR107" ;
 .
 
 <urn:mdciii:1603:16:188:2:108>
@@ -199,7 +199,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Goicoechea"@spa-Latn ;
-    wdata:q7200235 "CR108" ;
+    wdata:Q7200235 "CR108" ;
 .
 
 <urn:mdciii:1603:16:188:2:109>
@@ -211,7 +211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Santa Ana"@spa-Latn ;
-    wdata:q7200235 "CR109" ;
+    wdata:Q7200235 "CR109" ;
 .
 
 <urn:mdciii:1603:16:188:2:110>
@@ -223,7 +223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Alajuelita"@spa-Latn ;
-    wdata:q7200235 "CR110" ;
+    wdata:Q7200235 "CR110" ;
 .
 
 <urn:mdciii:1603:16:188:2:111>
@@ -235,7 +235,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Vazquez De Coronado"@spa-Latn ;
-    wdata:q7200235 "CR111" ;
+    wdata:Q7200235 "CR111" ;
 .
 
 <urn:mdciii:1603:16:188:2:112>
@@ -247,7 +247,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Acosta"@spa-Latn ;
-    wdata:q7200235 "CR112" ;
+    wdata:Q7200235 "CR112" ;
 .
 
 <urn:mdciii:1603:16:188:2:113>
@@ -259,7 +259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Tibas"@spa-Latn ;
-    wdata:q7200235 "CR113" ;
+    wdata:Q7200235 "CR113" ;
 .
 
 <urn:mdciii:1603:16:188:2:114>
@@ -271,7 +271,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Moravia"@spa-Latn ;
-    wdata:q7200235 "CR114" ;
+    wdata:Q7200235 "CR114" ;
 .
 
 <urn:mdciii:1603:16:188:2:115>
@@ -283,7 +283,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Montes De Oca"@spa-Latn ;
-    wdata:q7200235 "CR115" ;
+    wdata:Q7200235 "CR115" ;
 .
 
 <urn:mdciii:1603:16:188:2:116>
@@ -295,7 +295,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Turrubares"@spa-Latn ;
-    wdata:q7200235 "CR116" ;
+    wdata:Q7200235 "CR116" ;
 .
 
 <urn:mdciii:1603:16:188:2:117>
@@ -307,7 +307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Dota"@spa-Latn ;
-    wdata:q7200235 "CR117" ;
+    wdata:Q7200235 "CR117" ;
 .
 
 <urn:mdciii:1603:16:188:2:118>
@@ -319,7 +319,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Curridabat"@spa-Latn ;
-    wdata:q7200235 "CR118" ;
+    wdata:Q7200235 "CR118" ;
 .
 
 <urn:mdciii:1603:16:188:2:119>
@@ -331,7 +331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Perez Zeledon"@spa-Latn ;
-    wdata:q7200235 "CR119" ;
+    wdata:Q7200235 "CR119" ;
 .
 
 <urn:mdciii:1603:16:188:2:120>
@@ -343,7 +343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:1> ;
     skos:prefLabel "Leon Cortes"@spa-Latn ;
-    wdata:q7200235 "CR120" ;
+    wdata:Q7200235 "CR120" ;
 .
 
 <urn:mdciii:1603:16:188:2:201>
@@ -355,7 +355,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Alajuela"@spa-Latn ;
-    wdata:q7200235 "CR201" ;
+    wdata:Q7200235 "CR201" ;
 .
 
 <urn:mdciii:1603:16:188:2:202>
@@ -367,7 +367,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "San Ramon"@spa-Latn ;
-    wdata:q7200235 "CR202" ;
+    wdata:Q7200235 "CR202" ;
 .
 
 <urn:mdciii:1603:16:188:2:203>
@@ -379,7 +379,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Grecia"@spa-Latn ;
-    wdata:q7200235 "CR203" ;
+    wdata:Q7200235 "CR203" ;
 .
 
 <urn:mdciii:1603:16:188:2:204>
@@ -391,7 +391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "San Mateo"@spa-Latn ;
-    wdata:q7200235 "CR204" ;
+    wdata:Q7200235 "CR204" ;
 .
 
 <urn:mdciii:1603:16:188:2:205>
@@ -403,7 +403,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Atenas"@spa-Latn ;
-    wdata:q7200235 "CR205" ;
+    wdata:Q7200235 "CR205" ;
 .
 
 <urn:mdciii:1603:16:188:2:206>
@@ -415,7 +415,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Naranjo"@spa-Latn ;
-    wdata:q7200235 "CR206" ;
+    wdata:Q7200235 "CR206" ;
 .
 
 <urn:mdciii:1603:16:188:2:207>
@@ -427,7 +427,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Palmares"@spa-Latn ;
-    wdata:q7200235 "CR207" ;
+    wdata:Q7200235 "CR207" ;
 .
 
 <urn:mdciii:1603:16:188:2:208>
@@ -439,7 +439,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Poas"@spa-Latn ;
-    wdata:q7200235 "CR208" ;
+    wdata:Q7200235 "CR208" ;
 .
 
 <urn:mdciii:1603:16:188:2:209>
@@ -451,7 +451,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Orotina"@spa-Latn ;
-    wdata:q7200235 "CR209" ;
+    wdata:Q7200235 "CR209" ;
 .
 
 <urn:mdciii:1603:16:188:2:210>
@@ -463,7 +463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "San Carlos"@spa-Latn ;
-    wdata:q7200235 "CR210" ;
+    wdata:Q7200235 "CR210" ;
 .
 
 <urn:mdciii:1603:16:188:2:211>
@@ -475,7 +475,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Alfaro Ruiz"@spa-Latn ;
-    wdata:q7200235 "CR211" ;
+    wdata:Q7200235 "CR211" ;
 .
 
 <urn:mdciii:1603:16:188:2:212>
@@ -487,7 +487,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Valverde Vega"@spa-Latn ;
-    wdata:q7200235 "CR212" ;
+    wdata:Q7200235 "CR212" ;
 .
 
 <urn:mdciii:1603:16:188:2:213>
@@ -499,7 +499,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Upala"@spa-Latn ;
-    wdata:q7200235 "CR213" ;
+    wdata:Q7200235 "CR213" ;
 .
 
 <urn:mdciii:1603:16:188:2:214>
@@ -511,7 +511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Los Chiles"@spa-Latn ;
-    wdata:q7200235 "CR214" ;
+    wdata:Q7200235 "CR214" ;
 .
 
 <urn:mdciii:1603:16:188:2:215>
@@ -523,7 +523,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:2> ;
     skos:prefLabel "Guatuso"@spa-Latn ;
-    wdata:q7200235 "CR215" ;
+    wdata:Q7200235 "CR215" ;
 .
 
 <urn:mdciii:1603:16:188:2:301>
@@ -535,7 +535,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "Cartago"@spa-Latn ;
-    wdata:q7200235 "CR301" ;
+    wdata:Q7200235 "CR301" ;
 .
 
 <urn:mdciii:1603:16:188:2:302>
@@ -547,7 +547,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "Paraiso"@spa-Latn ;
-    wdata:q7200235 "CR302" ;
+    wdata:Q7200235 "CR302" ;
 .
 
 <urn:mdciii:1603:16:188:2:303>
@@ -559,7 +559,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "La Union"@spa-Latn ;
-    wdata:q7200235 "CR303" ;
+    wdata:Q7200235 "CR303" ;
 .
 
 <urn:mdciii:1603:16:188:2:304>
@@ -571,7 +571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "Jimenez"@spa-Latn ;
-    wdata:q7200235 "CR304" ;
+    wdata:Q7200235 "CR304" ;
 .
 
 <urn:mdciii:1603:16:188:2:305>
@@ -583,7 +583,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "Turrialba"@spa-Latn ;
-    wdata:q7200235 "CR305" ;
+    wdata:Q7200235 "CR305" ;
 .
 
 <urn:mdciii:1603:16:188:2:306>
@@ -595,7 +595,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "Alvarado"@spa-Latn ;
-    wdata:q7200235 "CR306" ;
+    wdata:Q7200235 "CR306" ;
 .
 
 <urn:mdciii:1603:16:188:2:307>
@@ -607,7 +607,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "Oreamuno"@spa-Latn ;
-    wdata:q7200235 "CR307" ;
+    wdata:Q7200235 "CR307" ;
 .
 
 <urn:mdciii:1603:16:188:2:308>
@@ -619,7 +619,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:3> ;
     skos:prefLabel "El Guarco"@spa-Latn ;
-    wdata:q7200235 "CR308" ;
+    wdata:Q7200235 "CR308" ;
 .
 
 <urn:mdciii:1603:16:188:2:401>
@@ -631,7 +631,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Heredia"@spa-Latn ;
-    wdata:q7200235 "CR401" ;
+    wdata:Q7200235 "CR401" ;
 .
 
 <urn:mdciii:1603:16:188:2:402>
@@ -643,7 +643,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Barva"@spa-Latn ;
-    wdata:q7200235 "CR402" ;
+    wdata:Q7200235 "CR402" ;
 .
 
 <urn:mdciii:1603:16:188:2:403>
@@ -655,7 +655,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Santo Domingo"@spa-Latn ;
-    wdata:q7200235 "CR403" ;
+    wdata:Q7200235 "CR403" ;
 .
 
 <urn:mdciii:1603:16:188:2:404>
@@ -667,7 +667,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Santa Barbara"@spa-Latn ;
-    wdata:q7200235 "CR404" ;
+    wdata:Q7200235 "CR404" ;
 .
 
 <urn:mdciii:1603:16:188:2:405>
@@ -679,7 +679,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "San Rafael"@spa-Latn ;
-    wdata:q7200235 "CR405" ;
+    wdata:Q7200235 "CR405" ;
 .
 
 <urn:mdciii:1603:16:188:2:406>
@@ -691,7 +691,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "San Isidro"@spa-Latn ;
-    wdata:q7200235 "CR406" ;
+    wdata:Q7200235 "CR406" ;
 .
 
 <urn:mdciii:1603:16:188:2:407>
@@ -703,7 +703,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Belen"@spa-Latn ;
-    wdata:q7200235 "CR407" ;
+    wdata:Q7200235 "CR407" ;
 .
 
 <urn:mdciii:1603:16:188:2:408>
@@ -715,7 +715,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Flores"@spa-Latn ;
-    wdata:q7200235 "CR408" ;
+    wdata:Q7200235 "CR408" ;
 .
 
 <urn:mdciii:1603:16:188:2:409>
@@ -727,7 +727,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "San Pablo"@spa-Latn ;
-    wdata:q7200235 "CR409" ;
+    wdata:Q7200235 "CR409" ;
 .
 
 <urn:mdciii:1603:16:188:2:410>
@@ -739,7 +739,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:4> ;
     skos:prefLabel "Sarapiqui"@spa-Latn ;
-    wdata:q7200235 "CR410" ;
+    wdata:Q7200235 "CR410" ;
 .
 
 <urn:mdciii:1603:16:188:2:501>
@@ -751,7 +751,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Liberia"@spa-Latn ;
-    wdata:q7200235 "CR501" ;
+    wdata:Q7200235 "CR501" ;
 .
 
 <urn:mdciii:1603:16:188:2:502>
@@ -763,7 +763,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Nicoya"@spa-Latn ;
-    wdata:q7200235 "CR502" ;
+    wdata:Q7200235 "CR502" ;
 .
 
 <urn:mdciii:1603:16:188:2:503>
@@ -775,7 +775,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Santa Cruz"@spa-Latn ;
-    wdata:q7200235 "CR503" ;
+    wdata:Q7200235 "CR503" ;
 .
 
 <urn:mdciii:1603:16:188:2:504>
@@ -787,7 +787,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Bagaces"@spa-Latn ;
-    wdata:q7200235 "CR504" ;
+    wdata:Q7200235 "CR504" ;
 .
 
 <urn:mdciii:1603:16:188:2:505>
@@ -799,7 +799,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Carrillo"@spa-Latn ;
-    wdata:q7200235 "CR505" ;
+    wdata:Q7200235 "CR505" ;
 .
 
 <urn:mdciii:1603:16:188:2:506>
@@ -811,7 +811,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Cañas"@spa-Latn ;
-    wdata:q7200235 "CR506" ;
+    wdata:Q7200235 "CR506" ;
 .
 
 <urn:mdciii:1603:16:188:2:507>
@@ -823,7 +823,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Abangares"@spa-Latn ;
-    wdata:q7200235 "CR507" ;
+    wdata:Q7200235 "CR507" ;
 .
 
 <urn:mdciii:1603:16:188:2:508>
@@ -835,7 +835,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Tilaran"@spa-Latn ;
-    wdata:q7200235 "CR508" ;
+    wdata:Q7200235 "CR508" ;
 .
 
 <urn:mdciii:1603:16:188:2:509>
@@ -847,7 +847,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Nandayure"@spa-Latn ;
-    wdata:q7200235 "CR509" ;
+    wdata:Q7200235 "CR509" ;
 .
 
 <urn:mdciii:1603:16:188:2:510>
@@ -859,7 +859,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "La Cruz"@spa-Latn ;
-    wdata:q7200235 "CR510" ;
+    wdata:Q7200235 "CR510" ;
 .
 
 <urn:mdciii:1603:16:188:2:511>
@@ -871,7 +871,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:5> ;
     skos:prefLabel "Hojancha"@spa-Latn ;
-    wdata:q7200235 "CR511" ;
+    wdata:Q7200235 "CR511" ;
 .
 
 <urn:mdciii:1603:16:188:2:601>
@@ -883,7 +883,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Puntarenas"@spa-Latn ;
-    wdata:q7200235 "CR601" ;
+    wdata:Q7200235 "CR601" ;
 .
 
 <urn:mdciii:1603:16:188:2:602>
@@ -895,7 +895,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Esparza"@spa-Latn ;
-    wdata:q7200235 "CR602" ;
+    wdata:Q7200235 "CR602" ;
 .
 
 <urn:mdciii:1603:16:188:2:603>
@@ -907,7 +907,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Buenos Aires"@spa-Latn ;
-    wdata:q7200235 "CR603" ;
+    wdata:Q7200235 "CR603" ;
 .
 
 <urn:mdciii:1603:16:188:2:604>
@@ -919,7 +919,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Montes De Oro"@spa-Latn ;
-    wdata:q7200235 "CR604" ;
+    wdata:Q7200235 "CR604" ;
 .
 
 <urn:mdciii:1603:16:188:2:605>
@@ -931,7 +931,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Osa"@spa-Latn ;
-    wdata:q7200235 "CR605" ;
+    wdata:Q7200235 "CR605" ;
 .
 
 <urn:mdciii:1603:16:188:2:606>
@@ -943,7 +943,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Aguirre"@spa-Latn ;
-    wdata:q7200235 "CR606" ;
+    wdata:Q7200235 "CR606" ;
 .
 
 <urn:mdciii:1603:16:188:2:607>
@@ -955,7 +955,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Golfito"@spa-Latn ;
-    wdata:q7200235 "CR607" ;
+    wdata:Q7200235 "CR607" ;
 .
 
 <urn:mdciii:1603:16:188:2:608>
@@ -967,7 +967,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Coto Brus"@spa-Latn ;
-    wdata:q7200235 "CR608" ;
+    wdata:Q7200235 "CR608" ;
 .
 
 <urn:mdciii:1603:16:188:2:609>
@@ -979,7 +979,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Parrita"@spa-Latn ;
-    wdata:q7200235 "CR609" ;
+    wdata:Q7200235 "CR609" ;
 .
 
 <urn:mdciii:1603:16:188:2:610>
@@ -991,7 +991,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Corredores"@spa-Latn ;
-    wdata:q7200235 "CR610" ;
+    wdata:Q7200235 "CR610" ;
 .
 
 <urn:mdciii:1603:16:188:2:611>
@@ -1003,7 +1003,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:6> ;
     skos:prefLabel "Garabito"@spa-Latn ;
-    wdata:q7200235 "CR611" ;
+    wdata:Q7200235 "CR611" ;
 .
 
 <urn:mdciii:1603:16:188:2:701>
@@ -1015,7 +1015,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:7> ;
     skos:prefLabel "Limon"@spa-Latn ;
-    wdata:q7200235 "CR701" ;
+    wdata:Q7200235 "CR701" ;
 .
 
 <urn:mdciii:1603:16:188:2:702>
@@ -1027,7 +1027,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:7> ;
     skos:prefLabel "Pococi"@spa-Latn ;
-    wdata:q7200235 "CR702" ;
+    wdata:Q7200235 "CR702" ;
 .
 
 <urn:mdciii:1603:16:188:2:703>
@@ -1039,7 +1039,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:7> ;
     skos:prefLabel "Siquirres"@spa-Latn ;
-    wdata:q7200235 "CR703" ;
+    wdata:Q7200235 "CR703" ;
 .
 
 <urn:mdciii:1603:16:188:2:704>
@@ -1051,7 +1051,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:7> ;
     skos:prefLabel "Talamanca"@spa-Latn ;
-    wdata:q7200235 "CR704" ;
+    wdata:Q7200235 "CR704" ;
 .
 
 <urn:mdciii:1603:16:188:2:705>
@@ -1063,7 +1063,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:7> ;
     skos:prefLabel "Matina"@spa-Latn ;
-    wdata:q7200235 "CR705" ;
+    wdata:Q7200235 "CR705" ;
 .
 
 <urn:mdciii:1603:16:188:2:706>
@@ -1075,6 +1075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:188:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:188:1:7> ;
     skos:prefLabel "Guacimo"@spa-Latn ;
-    wdata:q7200235 "CR706" ;
+    wdata:Q7200235 "CR706" ;
 .
 
